@@ -27,5 +27,12 @@
 + Highest attrition rate of employee tend to have very minimum time with their current manager (0-1 year only).
 + Employee with rarely travel have the highest attrition rate while non-travel have the lowest rate.
 
+## Methodology
+1. Data preparation and cleaning
+2. Data analysis, include exploratory data analysis, finding insight, using analysis such as: correlation analysis, and logistic regression.
+3. Data visualisation, using Tableau.
+4. Insights, gather all informations and find possibilities and solution from findings.
+5. Recommendation, propose acctionable and effective solution that able to decrease attrition down to 8,6% per year.
+   
 ## Limitations
 - Some employee data has no value.
