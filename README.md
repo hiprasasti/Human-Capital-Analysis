@@ -1,5 +1,7 @@
 # Human-Capital-Analysis
 
+![alt text](https://github.com/hiprasasti/Human-Capital-Analysis/blob/main/04.%20Sajan%20Ji%20Human%20Capital%20Development.png?raw=true)
+
 
 ## Data Used
 **Data** - Employee data consist of more 500 rows and 26 columns.
