@@ -3,6 +3,7 @@
 
 ## Data Used
 **Data** - Employee data consist of more 500 rows and 26 columns.
+
 **Data Cleaning & Analysis** - Google Spreadsheet.
 **Data Visualization** - Tableau.
 
